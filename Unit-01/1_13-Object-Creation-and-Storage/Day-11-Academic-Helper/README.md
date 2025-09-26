@@ -17,7 +17,7 @@ You are creating a helpful, universal utility class that any part of a larger sc
 
 ## **Requirements**
 
-You must implement the following **four static methods** inside the `AcademicHelper` class and write proper documentation, and in the `Runner` file you will collect user input to use the methods you've created. Finally, you will create a `Student` object to put it all together.
+You must implement the following **four static methods** inside the `AcademicHelper` class and write **proper Javadocs documentation**. Then, in the `Runner` file you will collect user input to use the methods you've created. Finally, you will create a `Student` object to put it all together.
 
 ### `calculateAverage`
 * **Parameters:** `int score1`, `int score2`, `int score3`
@@ -66,6 +66,8 @@ This is an example of a proper Javadoc comment that you can include in your code
       return number * number;
   }
 ```
+
+You can confirm that your Javadocs is working correclty by pasting your entire `AcademicHelper` class [here](https://javadocs-api-creator-14910563.codehs.me/index.html)
 
 ## Runner File
 
